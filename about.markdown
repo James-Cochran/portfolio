@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a full-stack software engineer with a passion for building scalable, impactful solutions. My journey into tech began after years of leading nonprofit teams, where I honed problem-solving skills and a strategic mindset. As an operations leader, I optimized workflows, managed high-performing teams, and helped Goodwill Eastern North Carolina achieve a 12% revenue increase.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Driven by curiosity and a love for problem-solving, I transitioned into software development to build solutions that create meaningful change. At Turing School, I immersed myself in backend and frontend technologies, mastering Ruby, Rails, JavaScript, React, API development, and Test-Driven Development. I thrive on tackling complex challenges, writing clean, efficient code, and developing solutions that balance functionality and user experience.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I’m eager to join a team that values collaboration, innovation, and continuous learning. Whether improving backend architecture or crafting intuitive frontends, I am excited to contribute to software that makes a real difference.
