@@ -1,0 +1,10 @@
+subject: About Me
+listing-order: 0
+icon: "/assets/img/user.svg"
+contents:
+  - description: |
+      I am a full-stack software engineer with a passion for building scalable, impactful solutions. My journey into tech began after years of leading nonprofit teams, where I honed problem-solving skills and a strategic mindset. As an operations leader, I optimized workflows, managed high-performing teams, and helped Goodwill Eastern North Carolina achieve a 12% revenue increase.
+
+      Driven by curiosity and a love for problem-solving, I transitioned into software development to build solutions that create meaningful change. At Turing School, I immersed myself in backend and frontend technologies, mastering Ruby, Rails, JavaScript, React, API development, and Test-Driven Development. I thrive on tackling complex challenges, writing clean, efficient code, and developing solutions that balance functionality and user experience.
+
+      I’m eager to join a team that values collaboration, innovation, and continuous learning. Whether improving backend architecture or crafting intuitive frontends, I am excited to contribute to software that makes a real difference.
