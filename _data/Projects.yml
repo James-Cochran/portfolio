@@ -2,18 +2,47 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: Little-Shop (group)
+  - title: "Journey Like a Genius (group, 12 days)"
+    tech: React, Ruby on Rails, PostgreSQL, Netlify, Heroku
+    frontend_repo: "Frontend repo: [GitHub](https://github.com/Crosswolfv1/journey_like_a_genius_fe)"
+    backend_repo: "Backend repo: [GitHub](https://github.com/Crosswolfv1/journey_like_a_genius)"
+    deploy: "[Live App](https://journeylikeagenius.netlify.app/)"
+    description:
+      - Built a full-stack travel itinerary generator** from scratch, allowing users to customize travel preferences.
+      - Designed a **React frontend** with dynamic state management for personalized recommendations.
+      - Developed a **Rails API backend** to store and retrieve user itineraries.
+      - Implemented a **responsive UI** to support mobile and desktop users.
+      - Integrated **PostgreSQL** for scalable data storage.
+      - Deployed using **Netlify (frontend)** and **Heroku (backend)**.
+      - This project is a work in progress, with planned enhancements for improved user experience and additional features.*
+    gif: <img src="/portfolio/assets/img/journey_like_a_genius_demo.gif" alt="Project demo" />
+
+  - title: "Rancid Tomatillos (group, 10 days)"
+    tech: JavaScript, React, React Router, Cypress
+    frontend_repo: "Repo: [GitHub](https://github.com/James-Cochran/rancid-tomatillos)"
+    deploy: "[Live App](https://rancid-tomatillos-james-bryan-74h360fbs-bryan-willetts-projects.vercel.app/)"
+    description:
+      - Collaborated with a team** to develop a movie catalog where users can explore films, vote, and view ratings.
+      - Implemented an **upvote/downvote** feature for movie engagement.
+      - Applied **React Router** to create a seamless multi-page experience.
+      - Ensured robust **end-to-end testing** using Cypress.
+      - Designed UI components with modular React architecture for **reusability and scalability**.
+    gif: <img src="assets/img/rancid_tomatillos_demo.gif" alt="Project demo" />
+
+  - title: "Little-Shop (group, 8 days)"
     tech: Ruby on Rails, JavaScript
     frontend_repo: "Frontend repo: [GitHub](https://github.com/James-Cochran/Little-Shop-group)"
     backend_repo: "Backend repo: [GitHub](https://github.com/James-Cochran/little-shop-fe-group)"
     description:
-      - Designed RESTful API endpoints to allow merchants to perform CRUD operations and retrieve business insights.
-      - Developed a front-end interface for merchants as part of a multi-tenant e-commerce application.
-      - Optimized database queries for performance using SQL and ActiveRecord.
+      - Built a multi-tenant e-commerce application** allowing merchants to manage inventory and orders.
+      - Developed **RESTful API endpoints** for CRUD operations and business insights.
+      - Designed a front-end interface using JavaScript and Rails API for seamless interactions.
+      - Optimized database queries for **faster performance** using SQL and ActiveRecord.
 
-  - title: Super Fun Posters (solo)
+  - title: "Super Fun Posters (solo, 9 days)"
     tech: JavaScript, HTML, CSS
     repo: "Repo: [GitHub](https://github.com/James-Cochran/Super-Fun-Posters)"
     description:
-      - Built a responsive front-end application enabling users to view, create, and delete motivational and demotivational posters.
-      - Focused on dynamic DOM manipulation, user input validation, and clean, modular JavaScript.
+      - Independently developed** a front-end app for users to **view, create, and delete** motivational and demotivational posters.
+      - Utilized **DOM manipulation** for interactive poster creation.
+      - Focused on **clean, modular JavaScript** and user-friendly UI design.
