@@ -17,7 +17,7 @@ contents:
       - This project is a work in progress, with planned enhancements for improved user experience and additional features.*
     gif: <img src="/portfolio/assets/img/journey_like_a_genius_demo.gif" alt="Project demo" />
 
-  - title: "Rancid Tomatillos (group, 10 days)"
+  - title: "Rancid Tomatillos (pair, 10 days)"
     tech: JavaScript, React, React Router, Cypress
     frontend_repo: "Repo: [GitHub](https://github.com/James-Cochran/rancid-tomatillos)"
     deploy: "[Live App](https://rancid-tomatillos-james-bryan-74h360fbs-bryan-willetts-projects.vercel.app/)"
