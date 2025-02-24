@@ -15,7 +15,7 @@ contents:
       - Integrated **PostgreSQL** for scalable data storage.
       - Deployed using **Netlify (frontend)** and **Heroku (backend)**.
       - This project is a work in progress, with planned enhancements for improved user experience and additional features.*
-    gif: <img src="/portfolio/assets/img/journey_like_a_genius_demo.gif" alt="Project demo" />
+    gif: <img src="/portfolio/assets/img/journey-like-a-genius.gif" alt="Project demo" />
 
   - title: "Rancid Tomatillos (pair, 10 days)"
     tech: JavaScript, React, React Router, Cypress
@@ -31,13 +31,14 @@ contents:
 
   - title: "Little-Shop (group, 8 days)"
     tech: Ruby on Rails, JavaScript
-    frontend_repo: "Frontend repo: [GitHub](https://github.com/James-Cochran/Little-Shop-group)"
-    backend_repo: "Backend repo: [GitHub](https://github.com/James-Cochran/little-shop-fe-group)"
+    frontend_repo: "Frontend repo: [GitHub](https://github.com/James-Cochran/Little_Shop_FE)"
+    backend_repo: "Backend repo: [GitHub](https://github.com/James-Cochran/little_shop_be)"
     description:
       - Built a multi-tenant e-commerce application** allowing merchants to manage inventory and orders.
       - Developed **RESTful API endpoints** for CRUD operations and business insights.
       - Designed a front-end interface using JavaScript and Rails API for seamless interactions.
       - Optimized database queries for **faster performance** using SQL and ActiveRecord.
+    gif: <img src="assets/img/little_shop_demo.gif" alt="Project demo" />
 
   - title: "Super Fun Posters (solo, 9 days)"
     tech: JavaScript, HTML, CSS
@@ -46,3 +47,4 @@ contents:
       - Independently developed** a front-end app for users to **view, create, and delete** motivational and demotivational posters.
       - Utilized **DOM manipulation** for interactive poster creation.
       - Focused on **clean, modular JavaScript** and user-friendly UI design.
+    gif: <img src="assets/img/super_fun_posters_demo.gif" alt="Project demo" />

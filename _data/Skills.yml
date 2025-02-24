@@ -2,24 +2,28 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages & Frameworks
+  - title: Computer Languages 
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
     "
-  - title: Testing Tools
+  - title: Frameworks and Libraries
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg)
-      ![Cypress](/portfolio/assets/img/cypress.jpeg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+      ![devicon](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)  
     "
-  - title: Tools & Workflow
+  - title: Testing and Other Tools
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg)
     "
+    
