@@ -2,7 +2,21 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - description: |
-      Download my resume to see my professional experience and accomplishments in detail.
-      <br><br>
-      <a href="/assets/files/resume.pdf" download="James-Cochran-Resume" class="btn">Download Resume</a>
+   - title: "Goodwill of Eastern North Carolina"
+    role: Employment Program Manager
+    description:
+      - Directed sales and operations in grossing over $900k is sales, a 12% year over year increase.
+      - Managed a staff of 9 direct reports to cover all areas of donations, production, merchandising, and sales.
+    date: May 2022 - Oct 2023
+  - title: Blue Spruce Habitat for Humanity
+    role: Volunteer Coordinator
+    description: 
+      - Directed daily activities of 50+ ReStore volunteers, increasing productivity and engagement through structured training and clear workflows.
+      - Established partnerships with local court systems to manage community service volunteers, ensuring 100% compliance with legal requirements.
+    date: Sept 2021 - Apr 2022
+  - title: Operations Manager
+    role: GreenSheen Paint
+    description: 
+      - Oversaw operations across four departments, managing over 100,000 pounds of waste paint weekly and ensuring adherence to environmental compliance standards.
+      - Directed production of 1,000+ gallons of recycled paint daily, meeting 100% of quality assurance and shipment deadlines.
+    date: Aug 2020 - Aug 2021

@@ -1,5 +1,5 @@
 subject: Skills
-listing-order: 5
+listing-order: 6
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Computer Languages 
@@ -14,7 +14,6 @@ contents:
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)  
     "
   - title: Testing and Other Tools
     description: "
