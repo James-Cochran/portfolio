@@ -38,7 +38,7 @@ contents:
       - Developed **RESTful API endpoints** for CRUD operations and business insights.
       - Designed a front-end interface using JavaScript and Rails API for seamless interactions.
       - Optimized database queries for **faster performance** using SQL and ActiveRecord.
-    gif: <img src="assets/img/little_shop_demo.gif" alt="Project demo" />
+    gif: <img src="assets/img/Little_Shop_Demo.gif" alt="Project demo" />
 
   - title: "Super Fun Posters (solo, 9 days)"
     tech: JavaScript, HTML, CSS

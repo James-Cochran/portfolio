@@ -3,7 +3,7 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Turing School of Software & Design
-    logo: "/assets/img/logo.png"
+
     degree: Certificate in Software Engineering
     date: Apr 2024 - Mar 2025
     description:
