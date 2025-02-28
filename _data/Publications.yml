@@ -1,0 +1,9 @@
+subject: Resume
+listing-order: 5
+icon: "/assets/img/resume.svg"
+
+contents:
+  - description: >
+      You can view or download my resume using the link below:
+
+      [Download My Resume](assets/files/resume.pdf)

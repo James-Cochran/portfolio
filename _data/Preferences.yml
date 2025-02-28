@@ -1,0 +1,16 @@
+subject: Preferences
+listing-order: 3
+icon: "/assets/img/globe.svg"
+contents:
+  - title: Preferred Locations
+    description: 
+      - Remote
+      - Hybrid
+      - Greater Wilmington, NC
+      - EasternTime Zone
+  - title: Previous Industries
+    description: 
+      - Non Profit
+      - Operations and Management
+      - Environmental Industries
+      - Software Development
