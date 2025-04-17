@@ -29,4 +29,23 @@ contents:
       - Designed UI components with modular React architecture for **reusability and scalability**.
     gif: <img src="assets/img/rancid_tomatillos_demo.gif" alt="Project demo" />
 
-  
+  - title: "Little-Shop (group, 8 days)"
+    tech: Ruby on Rails, JavaScript
+    frontend_repo: "Frontend repo: [GitHub](https://github.com/James-Cochran/Little_Shop_FE)"
+    backend_repo: "Backend repo: [GitHub](https://github.com/James-Cochran/little_shop_be)"
+    description:
+      - Built a multi-tenant e-commerce application** allowing merchants to manage inventory and orders.
+      - Developed **RESTful API endpoints** for CRUD operations and business insights.
+      - Designed a front-end interface using JavaScript and Rails API for seamless interactions.
+      - Optimized database queries for **faster performance** using SQL and ActiveRecord.
+    gif: <img src="assets/img/Little_Shop_Demo.gif" alt="Project demo" />
+
+  - title: "Super Fun Posters (solo, 9 days)"
+    tech: JavaScript, HTML, CSS
+    repo: "Repo: [GitHub](https://github.com/James-Cochran/Super-Fun-Posters)"
+    description:
+      - Independently developed** a front-end app for users to **view, create, and delete** motivational and demotivational posters.
+      - Utilized **DOM manipulation** for interactive poster creation.
+      - Focused on **clean, modular JavaScript** and user-friendly UI design.
+    gif: <img src="assets/img/super_fun_posters_demo.gif" alt="Project demo" />
+    
